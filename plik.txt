@@ -1,1 +1,2 @@
-Kolejne zmiany w pliku.txt 123123123
+19.09.2022 11:56
+Dodanie nowej eksperymentalnej funkcjonalnosci
